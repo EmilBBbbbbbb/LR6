@@ -25,8 +25,8 @@ Cлияние в ветку master
 Итог слияния
 ![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20222814.png)
 Удаление побочной ветку<br>
-после успешного слияния. 
-![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20223408.png)
+после успешного слияния. <br>
+![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20223408.png)<br>
 Создание нескольких<br>
 коммитов
 ![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20223946.png)
