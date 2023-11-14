@@ -6,7 +6,7 @@
 ## Ход работы
 Регистрация на Github
 ![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20205702.png)
-Настроен git клиент<br>
+Настроен git клиент и клонирование репозитория
 ![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20215240.png)
 ## Вывод
 Изучены базовые возможности системы управления версиями, получен опыт работы с Git Api и опыт работы с локальным и удаленным репозиторием
