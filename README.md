@@ -4,7 +4,7 @@
 управления версиями, опыт работы с Git Api, опыт работы с локальным и
 удаленным репозиторием.
 ## Ход работы
-Регистрация на Github<br>
+Cоздание Fork<br>
 ![](https://github.com/EmilBBbbbbbb/LR6/blob/report/screenshot/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-11-14%20205702.png)
 Настроен git клиент<br> 
 и клонирование репозитория<br>
